@@ -10,6 +10,7 @@
     , now   = null
     ;
 
+  window._originalDate = _Date;
   function MockDate(y, m, d, h, M, s, ms) {
     var date;
 

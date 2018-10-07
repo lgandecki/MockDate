@@ -1,7 +1,7 @@
 {
-  "name": "mockdate",
+  "name": "mockdate-with-global",
   "version": "2.0.2",
-  "description": "A JavaScript mock Date object that can be used to change when \"now\" is.",
+  "description": "A JavaScript mock Date object that can be used to change when \"now\" is. With globally accessible original date",
   "main": "./src/mockdate.js",
   "dependencies": {},
   "devDependencies": {
